@@ -5,7 +5,7 @@ A desktop application built with Python and Tkinter that helps users track time 
 ## Features
 
 - ⏱ Track usage time for specified websites or apps
-- 🔔 Get notified when time limits are reached
+- 🔔 Get notified when time limits are reached 
 - 📝 Daily usage logs with export option
 - ➕ Add/edit/remove tracked items via GUI
 - 💾 Data is saved persistently in JSON format

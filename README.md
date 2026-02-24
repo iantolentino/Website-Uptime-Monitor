@@ -1,7 +1,7 @@
 # Website/App Usage Monitor
 
 A desktop application built with Python and Tkinter that helps users track time spent on specific websites or applications. The program monitors the currently active window and logs usage, notifying users when their custom time limits are exceeded.
-
+ 
 ## Features
 
 - ⏱ Track usage time for specified websites or apps
